@@ -8,4 +8,4 @@ utc -= nono;
 time.innerHTML = `${utc}`
 
 
-}, 1000)
+}, 50)
